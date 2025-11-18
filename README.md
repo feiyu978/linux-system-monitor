@@ -1,5 +1,3 @@
-<img width="554" height="197" alt="图片1" src="https://github.com/user-attachments/assets/ac9f6fef-3d41-49c6-9c5d-af489ac6850e" /># Linux系统监控脚本
-
 这是一个自动化的Linux系统监控脚本，可以检查：
 - 磁盘使用情况
 - 内存使用情况  
@@ -20,4 +18,4 @@ ls -la templates/
 查看报告：
 脚本会在 templates/ 目录生成HTML格式的监控报告，直接在浏览器中打开即可查看。
 最终运行结果为：
-
+![Uploading 图片1.png…]()
